@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info>
+	<Books>
+ 		<Book id="001">
+ 			<Name>Java</Name>
+ 			<ID>001</ID>
+ 			<Price>50.0</Price>
+ 		</Book>
+ 		
+ 		<Book id="002">
+ 			<Name>Python</Name>
+ 			<ID>002</ID>
+ 			<Price>30.0</Price>
+ 		</Book>
+ 		
+	</Books>
+	
+	<Phones>
+		<Phone>
+			<Name>三星S8</Name>
+ 			<ID>101</ID>
+ 			<Price>5588.0</Price>
+		</Phone>
+	</Phones>
+	
+	
+</Info>
